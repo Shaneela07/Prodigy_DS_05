@@ -1,5 +1,5 @@
 # Prodigy_DS_05
-Welcome!!! This repository documents are for Task 5 which is last task of my internship journey, focusing on complete analysis through EDA and uncovering insightful patterns.
+Welcome!!! This repository documents are for Task 5 which is last task of my internship journey with Prodigy Infotech, focusing on complete analysis through EDA and uncovering insightful patterns.
 # Complete Analysis on US Accidents
 **Task**---
 Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and contributing factors.
