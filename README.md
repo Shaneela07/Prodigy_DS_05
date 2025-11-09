@@ -120,60 +120,60 @@ Astronomical_Twilight: Shows the period of day (i.e. day or night) based on astr
 
 # Report & Conclusion
 
-Analysis tells that majority of accidents have severity ~2 means not much higher impact on traffic.
+* Analysis tells that majority of accidents have severity ~2 means not much higher impact on traffic.
 
-in approx 75% cases no precipitation was recorded so this could mean rain is not the reason for accidents.
+* In approx 75% cases no precipitation was recorded so this could mean rain is not the reason for accidents.
 
-on an avg accidents happen even while the visibility is ~9 miles so this could mean that visibility is not a reason.
+* On an avg accidents happen even while the visibility is ~9 miles so this could mean that visibility is not a reason.
 
-average length of the road extent affected by the accident is 7 miles.
+* Average length of the road extent affected by the accident is 7 miles.
 
-Miami(CITY) had most no of accident cases i.e 106966
+* Miami(CITY) had most no of accident cases i.e 106966
 
-Top 5 Cities which had most number of cases are
+* Top 5 Cities which had most number of cases are - Miami 106966, Los Angeles 68956, Orlando 54691, Dallas 41979, Houston 39448
+  
+* Cities which had least no of accidents are - Ridgedale 1, Sekiu 1, Wooldridge 1, Bullock 1, American Fork-Pleasant Grove 1
+  
+* CA (STATE) had most no of accident cases i.e 795868
 
-Miami 106966 Los Angeles 68956 Orlando 54691 Dallas 41979 Houston 39448 Cities which had least no of accidents are
+* Top 5 States of US which had most no accident cases are: CA 795868 FL 401388 TX 149037 OR 126341 VA 113535
+  
+*  US/Eastern timezone region reported the most number of accident cases.
 
-Ridgedale 1 Sekiu 1 Wooldridge 1 Bullock 1 American Fork-Pleasant Grove 1 CA (STATE) had most no of accident cases i.e 795868
+* I-95 N street had max accident cases i.e 39853
 
-Top 5 States of US which had most no accident cases are:
+* Most accident occurs between 2:00PM - 6:00PM
 
-CA 795868 FL 401388 TX 149037 OR 126341 VA 113535 US/Eastern timezone region reported the most number of accident cases.
+* Most-deadliest accident hour is 5:00PM
 
-I-95 N street had max accident cases i.e 39853
+* Next highest accident occur between 7:00AM - 8:00AM
 
-Most accident occurs between 2:00PM - 6:00PM
+* Friday had the highest no of accident cases i.e 492074.
 
-most-deadliest accident hour is 5:00PM
+* Accident cases are less during weekends i.e satuday and sunday and evenly distributed during business days.
 
-next highest accident occur between 7:00AM - 8:00AM
+* Most no of cases are occured during December i.e 473943
 
-friday had the highest no of accident cases i.e 492074.
+* At the end of the year the number of accidents is quite high ie during december,november,october had most no of accidents
 
-accident cases are less during weekends i.e satuday and sunday and evenly distributed during business days.
+* Year 2021 had max no of accidents i.e 1511745
 
-Most no of cases are occured during December i.e 473943
+* Trend is increasing exponentially yearly, sharp rise after year 2020.
 
-at the end of the year the number of accidents is quite high ie during december,november,october had most no of accidents
+* Maximum no of cases occured between temperature range: 50-80 F.
 
-year 2021 had max no of accidents i.e 1511745
+* Maximum no of cases occured between humidity range: 80-100 %.
 
-trend is increasing exponentially yearly . sharp rise after year 2020.
+*As the humidity increases the no of cases also increases.
 
-maximum no of cases occured between temperature range: 50-80 F.
+* Maximum cases occured for the wind speed range between 5(mph) - 10(mph)
 
-maximum no of cases occured between humidity range: 80-100 %.
+* This is normal wind speed hence it is not the reason for accidents.
 
-as the humidity increases the no of cases also increases.
+* Max no of accident occured when the air pressureis between 20(in) to 30(in).
 
-Maximum cases occured for the wind speed range between 5(mph) - 10(mph)
+* 30(in) had max accidents
 
-This is normal wind speed hence it is not the reason for accidents.
-
-max no of accident occured when the air pressureis between 20(in) to 30(in).
-
-30(in) had max accidents
-
-Weather condition was Fair in most of the cases hence it is not a major cause behind the accidents.
+* Weather condition was Fair in most of the cases hence it is not a major cause behind the accidents.
 
 
