@@ -1,7 +1,7 @@
-# Prodigy_DS_05
-Welcome!!! This repository documents are for Task 5 which is last task of my internship journey with Prodigy Infotech, focusing on complete analysis through EDA and uncovering insightful patterns.
-# Complete Analysis on US Accidents
-**Task**---
+# Complete Analysis on US Road Accidents
+
+**Task**
+--
 Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and contributing factors.
 
 # About
@@ -164,7 +164,7 @@ Astronomical_Twilight: Shows the period of day (i.e. day or night) based on astr
 
 * Maximum no of cases occured between humidity range: 80-100 %.
 
-*As the humidity increases the no of cases also increases.
+* As the humidity increases the no of cases also increases.
 
 * Maximum cases occured for the wind speed range between 5(mph) - 10(mph)
 
